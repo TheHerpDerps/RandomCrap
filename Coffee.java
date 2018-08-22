@@ -2,6 +2,7 @@ Public class Coffee{
     Int cups;
     Int mugs;
     Int AmountOfCoffee;
+    
 
     public Coffee(){
         cups = 3;
@@ -11,4 +12,6 @@ Public class Coffee{
     public void HowMuchDidIDrink(){
         return AmountOfCoffee;
     }
+    
+    public void BathroomTime(double Time){
 }
