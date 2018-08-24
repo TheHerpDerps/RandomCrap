@@ -5,7 +5,7 @@ Public class Coffee{
     
 
     public Coffee(){
-        cups = 3;
+        cups = 6;
         mugs = 4;
         AmountOfCoffee = mugs * cups;
     }
